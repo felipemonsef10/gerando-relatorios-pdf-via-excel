@@ -1,0 +1,10 @@
+teste.ipynb
+dados/dados.xlsx
+assets/layout_novo.pptx
+assets/layout_relatorio.pdf
+assets/layout_relatorio.svg
+
+__pycache__/
+.venv/
+testes/
+output/
