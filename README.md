@@ -10,15 +10,12 @@ Este projeto implementa um pipeline automatizado para a transformação de dados
 ## Sumário
 
 1. [Introdução](#introdução)
-2. [Metodologia](#metodologia)
-3. [Arquitetura do Sistema](#arquitetura-do-sistema)
-4. [Tecnologias e Dependências](#tecnologias-e-dependências)
-5. [Instalação](#instalação)
-6. [Modo de Uso](#modo-de-uso)
-7. [Estrutura do Repositório](#estrutura-do-repositório)
-8. [Limitações e Trabalhos Futuros](#limitações-e-trabalhos-futuros)
-9. [Contribuição](#contribuição)
-10. [Referências](#referências)
+2. [Arquitetura do Sistema](#arquitetura-do-sistema)
+3. [Tecnologias e Dependências](#tecnologias-e-dependências)
+4. [Instalação](#instalação)
+5. [Modo de Uso](#modo-de-uso)
+6. [Estrutura do Repositório](#estrutura-do-repositório)
+7. [Limitações e Trabalhos Futuros](#limitações-e-trabalhos-futuros)
 
 ## Introdução
 
